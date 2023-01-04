@@ -173,9 +173,9 @@ nav {
 }
 .slider img{
     width: 96.5vw;
-    height:340px;
+    height:303px;
     margin: 10px;
-    animation: 10s sliderImages infinite ;
+    animation: 20s sliderImages infinite ;
     overflow: hidden;
 }
 .slider_images{
@@ -201,7 +201,7 @@ nav {
 }
 .btn-right{
     position: relative;
-    left: -5392px;
+    left: -6728px;
 }
 
 /* Animation */
